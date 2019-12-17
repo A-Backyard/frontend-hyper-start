@@ -1,0 +1,39 @@
+.site-main {
+ z-index: 0;
+}
+
+.fullscreen-bg {
+
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    font-family: inherit;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+}
+
+.fullscreen-bg__video {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+
+.main-log {
+
+ z-index: 2147483647;
+ position: absolute;
+ width: 900px;
+ height: 500px;
+ background: rgb(255, 255, 255, 0.86);
+ padding: 10px;
+ margin: 100px 40px 40px 200px;
+ font-size: 4em;
+ color: #DB3636;
+ font-family: comic sans ms, sans-serif;
+}

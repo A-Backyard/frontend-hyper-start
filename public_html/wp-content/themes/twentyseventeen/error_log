@@ -1,0 +1,8 @@
+[14-Jul-2019 17:13:00 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/europass/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[18-Jul-2019 03:38:33 UTC] PHP Fatal error:  Call to undefined function get_template_part() in /home/europass/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[18-Jul-2019 17:20:49 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/europass/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[06-Aug-2019 08:52:29 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/europass/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[20-Oct-2019 07:55:16 UTC] PHP Fatal error:  Call to undefined function get_template_part() in /home/europass/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[22-Oct-2019 16:09:16 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/europass/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[23-Oct-2019 06:51:19 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/europass/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[06-Nov-2019 10:31:17 UTC] PHP Fatal error:  Call to undefined function get_template_part() in /home/europass/public_html/wp-content/themes/twentyseventeen/footer.php on line 22

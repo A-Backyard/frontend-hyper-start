@@ -1,0 +1,41 @@
+
+---Downloaded files---
+The import files for: Образец содержимого were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://europassgroup.com
+Data file = /home/europass/public_html/wp-content/themes/sydney/demo-content/demo-content.xml
+Widget file = /home/europass/public_html/wp-content/themes/sydney/demo-content/demo-widgets.wie
+Customizer file = /home/europass/public_html/wp-content/themes/sydney/demo-content/demo-customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Боковая колонка : 
+
+Поиск - No Title - Imported
+Свежие записи - No Title - Imported
+Свежие комментарии - No Title - Imported
+Архивы - No Title - Imported
+Рубрики - No Title - Imported
+Мета - No Title - Imported
+
+Подвал1 : 
+
+Видео - No Title - Imported
+
+footer-2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Текст - No Title - Imported to Inactive
+
+footer-3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Sydney: Contact info - Get in touch - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,9 @@
+[16-Sep-2019 20:32:45 UTC] База данных WordPress возвратила ошибку Duplicate entry '2019-09-17' for key 'unique_date' в ответ на запрос INSERT INTO `wp_statistics_visit` (`last_visit`, `last_counter`, `visit`) VALUES ('', '2019-09-17', 0), выполненный do_action_ref_array('wp_statistics_add_visit_hook'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WP_Statistics_Schedule->add_visit_event
+[07-Oct-2019 16:35:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/europass/public_html/wp-content/themes/sydney/footer.php on line 25
+[07-Oct-2019 16:36:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/europass/public_html/wp-content/themes/sydney/footer.php on line 25
+[07-Oct-2019 16:37:04 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/europass/public_html/wp-content/themes/sydney/footer.php on line 25
+[07-Oct-2019 16:37:11 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/europass/public_html/wp-content/themes/sydney/footer.php on line 26
+[07-Oct-2019 16:37:51 UTC] PHP Warning:  printf(): Too few arguments in /home/europass/public_html/wp-content/themes/sydney/footer.php on line 25
+[07-Oct-2019 16:37:57 UTC] PHP Warning:  printf(): Too few arguments in /home/europass/public_html/wp-content/themes/sydney/footer.php on line 25
+[07-Oct-2019 16:38:19 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/europass/public_html/wp-content/themes/sydney/footer.php on line 25
+[17-Nov-2019 14:11:25 UTC] База данных WordPress возвратила ошибку Duplicate entry '2019-11-18' for key 'unique_date' в ответ на запрос INSERT INTO `wp_statistics_visit` (`last_visit`, `last_counter`, `visit`) VALUES ('', '2019-11-18', 0), выполненный do_action_ref_array('wp_statistics_add_visit_hook'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WP_Statistics_Schedule->add_visit_event

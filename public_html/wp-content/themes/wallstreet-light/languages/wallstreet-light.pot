@@ -1,0 +1,72 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Wallstreet Light\n"
+"POT-Creation-Date: 2018-09-26 19:53+0530\n"
+"PO-Revision-Date: 2018-09-26 19:53+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: blog-fullwidth.php:37
+msgid "Read More"
+msgstr ""
+
+#: blog-fullwidth.php:38
+msgid "Page"
+msgstr ""
+
+#: functions.php:20 functions/customizer/customizer-copyright.php:15
+msgid ""
+"<a href=\"https://wordpress.org\">Proudly powered by WordPress</a> | Theme: "
+"<a href=\"https://webriti.com\" rel=\"designer\"> Wallstreet Light</a> by "
+"Webriti"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:8
+msgid "Footer copyright settings"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:24
+msgid "Copyright text"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Wallstreet Light"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/wallstreet-lite-version-details-page/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A Business theme, perfect for creating a corporate/business websites, "
+"Wallstreet Light is a child of the Wallstreet theme and is its lighter color "
+"variation. Those who prefer a white-background-based theme can use this, "
+"while those who prefer a dark background can use directly the parent theme. "
+"Wallstreet Light theme is currently localized in more than 10 languages "
+"( English, German, Italian, French, Japanese, Brazilian, Portuguese, "
+"Swedish, Chinese, Danish, Dutch)."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr ""

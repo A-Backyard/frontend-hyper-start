@@ -1,0 +1,63 @@
+# Translation of Themes - Orfeo in English (UK)
+# This file is distributed under the same license as the Themes - Orfeo package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-29 18:47:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Orfeo\n"
+
+#. Theme Name of the plugin/theme
+msgid "Orfeo"
+msgstr "Orfeo"
+
+#. #-#-#-#-#  orfeo.pot (Orfeo 1.0.6)  #-#-#-#-#
+#. Description of the plugin/theme
+#: functions.php:388
+msgid "Orfeo is a responsive WordPress theme with multipurpose design. It is a good fit for both small businesses and corporate businesses, as it is highly customizable via the Live Customizer. You can use Orfeo for restaurants, startups, freelancer resume, creative agencies, portfolios, WooCommerce, or niches like sports, medical, blogging, fashion, lawyer sites etc. It has a one-page design, Sendinblue newsletter integration, widgetized footer, and a clean appearance. The theme is compatible with Elementor Page Builder, Photo Gallery, Flat Parallax Slider, and Travel Map; it is mobile friendly and optimized for SEO."
+msgstr "Orfeo is a responsive WordPress theme with multipurpose design. It is a good fit for both small businesses and corporate businesses, as it is highly customisable via the Live Customiser. You can use Orfeo for restaurants, startups, freelancer resumes, creative agencies, portfolios, WooCommerce, or niches like sports, medical, blogging, fashion, lawyer sites etc. It has a one-page design, Sendinblue newsletter integration, widgetised footer, and a clean appearance. The theme is compatible with Elementor Page Builder, Photo Gallery, Flat Parallax Slider, and Travel Map; it is mobile-friendly and optimised for SEO."
+
+#. translators: s - theme name
+#: functions.php:384
+msgid "Welcome to %s! - Version "
+msgstr "Welcome to %s! - Version "
+
+#: functions.php:375 functions.php:379
+msgid "About Orfeo"
+msgstr "About Orfeo"
+
+#: functions.php:298
+msgid "Read more"
+msgstr "Read more"
+
+#: functions.php:142
+msgid "First button text"
+msgstr "First button text"
+
+#: functions.php:124 functions.php:144
+msgid "Second button text"
+msgstr "Second button text"
+
+#: functions.php:98
+msgid "Second Button URL"
+msgstr "Second Button URL"
+
+#: functions.php:73 functions.php:80
+msgid "Second Button text"
+msgstr "Second Button text"
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/orfeo/"
+msgstr "https://themeisle.com/themes/orfeo/"

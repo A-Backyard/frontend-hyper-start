@@ -1,0 +1,70 @@
+
+---Downloaded files---
+The import files for: Modern - Elementor Based Homepage were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://luxuryazur.com
+Data file = /home/europass/luxuryazur.com/wp-content/themes/realhomes/framework/demos/elementor-modern/contents.xml
+Widget file = /home/europass/luxuryazur.com/wp-content/themes/realhomes/framework/demos/elementor-modern/widgets.wie
+Customizer file = /home/europass/luxuryazur.com/wp-content/themes/realhomes/framework/demos/elementor-modern/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Default Sidebar : 
+
+Поиск - No Title - Widget already exists
+Свежие записи - No Title - Widget already exists
+Рубрики - No Title - Widget already exists
+RealHomes - Featured Properties - Featured Properties - Imported
+
+Pages Sidebar : 
+
+RealHomes - Featured Properties - Featured Properties - Imported
+
+Property Sidebar : 
+
+Mortgage Calculator - Mortgage Calculator - Imported
+RealHomes - Featured Properties - Featured Properties - Imported
+
+Properties List Sidebar : 
+
+RealHomes - Property Types - Property Types - Imported
+RealHomes - Featured Properties - Featured Properties - Imported
+
+Footer First Column : 
+
+Меню навигации - No Title - Imported
+
+Footer Second Column : 
+
+rh_contact_information - No Title - Site does not support widget
+
+Footer Third Column : 
+
+Облако меток - No Title - Imported
+
+Agent Sidebar : 
+
+RealHomes - Agent Featured Properties - Featured Properties - Imported
+
+Agency Sidebar : 
+
+RealHomes - Featured Properties - Featured Properties - Imported
+RealHomes - Property Types - Property Types - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

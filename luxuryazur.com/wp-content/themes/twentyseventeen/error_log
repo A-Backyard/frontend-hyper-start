@@ -1,0 +1,3 @@
+[16-Nov-2019 20:57:21 UTC] PHP Fatal error:  Call to undefined function get_template_part() in /home/europass/luxuryazur.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[16-Nov-2019 21:56:12 UTC] PHP Fatal error:  Call to undefined function get_template_part() in /home/europass/luxuryazur.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[16-Nov-2019 22:20:22 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/europass/luxuryazur.com/wp-content/themes/twentyseventeen/404.php on line 13

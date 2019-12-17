@@ -1,0 +1,1111 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-08-19 16:24+0600\n"
+"PO-Revision-Date: 2019-05-28 17:27+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_attr__;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: 404.php:9 inc/customizer-controls/common-controls/404-controls.php:26
+msgid "404 Page not found"
+msgstr ""
+
+#: 404.php:10 inc/customizer-controls/common-controls/404-controls.php:42
+msgid "But you can continue your search ..."
+msgstr ""
+
+#: comments.php:17
+msgid "no responses"
+msgstr ""
+
+#: comments.php:18
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:19
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:54
+msgid "Name"
+msgstr ""
+
+#: comments.php:58
+msgid "Email"
+msgstr ""
+
+#: comments.php:62
+msgid "Website"
+msgstr ""
+
+#: comments.php:68
+msgid "Save my details for the next time I comment."
+msgstr ""
+
+#: comments.php:77
+msgid "Comment"
+msgstr ""
+
+#: footer.php:36
+#, php-format
+msgid "KhaddoKothon Theme by %1$sTab Themes%2$s"
+msgstr ""
+
+#: footer.php:58 inc/customizer.php:289
+msgid "Back to top"
+msgstr ""
+
+#: functions.php:64
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:79
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:81
+msgid "Appears on posts and pages."
+msgstr ""
+
+#: functions.php:94
+msgid "Footer Widget "
+msgstr ""
+
+#: functions.php:96
+msgid "Appears on footer area "
+msgstr ""
+
+#: inc/comments-walker.php:34
+#, php-format
+msgid ""
+"%s <span class=\"sr-only sr-only-focusable screen-reader-text\">says:</span>"
+msgstr ""
+
+#: inc/comments-walker.php:42
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/comments-walker.php:49
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/comments-walker.php:63
+msgid "Edit"
+msgstr ""
+
+#: inc/customizer-controls/blog-controls/blog-index-controls.php:8
+msgid "Custom Page Heading"
+msgstr ""
+
+#: inc/customizer-controls/blog-controls/blog-index-controls.php:10
+msgid "Blog Page"
+msgstr ""
+
+#: inc/customizer-controls/blog-controls/blog-index-controls.php:24
+#: inc/customizer-controls/blog-controls/blog-single-controls.php:8
+msgid "Choose Layout"
+msgstr ""
+
+#: inc/customizer-controls/blog-controls/blog-index-controls.php:38
+msgid "Choose Post Type"
+msgstr ""
+
+#: inc/customizer-controls/blog-controls/blog-index-controls.php:51
+msgid "Grid Column"
+msgstr ""
+
+#: inc/customizer-controls/blog-controls/blog-index-controls.php:71
+msgid "Show Meta"
+msgstr ""
+
+#: inc/customizer-controls/blog-controls/blog-index-controls.php:80
+#: inc/customizer-controls/home-controls/regular-home-controls.php:114
+msgid "Show Excerpt"
+msgstr ""
+
+#: inc/customizer-controls/blog-controls/blog-search-controls.php:8
+msgid "Title Before Query"
+msgstr ""
+
+#: inc/customizer-controls/blog-controls/blog-search-controls.php:10
+#: template-parts/header/search-header.php:2
+msgid "Search Results for: "
+msgstr ""
+
+#: inc/customizer-controls/blog-controls/blog-single-controls.php:23
+msgid "Show Categories"
+msgstr ""
+
+#: inc/customizer-controls/blog-controls/blog-single-controls.php:32
+msgid "Show Tags"
+msgstr ""
+
+#: inc/customizer-controls/common-controls/404-controls.php:8
+msgid "Page Title"
+msgstr ""
+
+#: inc/customizer-controls/common-controls/404-controls.php:10
+#: template-parts/header/404-header.php:2
+msgid "404"
+msgstr ""
+
+#: inc/customizer-controls/common-controls/404-controls.php:24
+msgid "Page Heading"
+msgstr ""
+
+#: inc/customizer-controls/common-controls/404-controls.php:40
+#: inc/customizer-controls/home-controls/cat-home-controls.php:47
+#: inc/customizer-controls/home-controls/featured-home-controls.php:85
+msgid "Description"
+msgstr ""
+
+#: inc/customizer-controls/common-controls/404-controls.php:56
+msgid "Show Search Form"
+msgstr ""
+
+#: inc/customizer-controls/common-controls/404-controls.php:60
+#: inc/customizer-controls/footer-controls/footer-widgets-controls.php:12
+#: inc/customizer-controls/home-controls/cat-home-controls.php:13
+#: inc/customizer-controls/home-controls/featured-home-controls.php:13
+#: inc/customizer-controls/home-controls/hero-home-controls.php:13
+#: inc/customizer-controls/home-controls/regular-home-controls.php:13
+#: inc/customizer-controls/home-controls/regular-home-controls.php:67
+#: inc/customizer-controls/home-controls/regular-home-controls.php:118
+#: inc/customizer-controls/home-controls/regular-home-controls.php:138
+#: inc/customizer-controls/home-controls/regular-home-controls.php:186
+#: inc/customizer-controls/home-controls/subscribe-home-controls.php:13
+msgid "Show"
+msgstr ""
+
+#: inc/customizer-controls/common-controls/404-controls.php:61
+#: inc/customizer-controls/footer-controls/footer-widgets-controls.php:13
+#: inc/customizer-controls/home-controls/cat-home-controls.php:14
+#: inc/customizer-controls/home-controls/featured-home-controls.php:14
+#: inc/customizer-controls/home-controls/hero-home-controls.php:14
+#: inc/customizer-controls/home-controls/regular-home-controls.php:14
+#: inc/customizer-controls/home-controls/regular-home-controls.php:68
+#: inc/customizer-controls/home-controls/regular-home-controls.php:119
+#: inc/customizer-controls/home-controls/regular-home-controls.php:139
+#: inc/customizer-controls/home-controls/regular-home-controls.php:187
+#: inc/customizer-controls/home-controls/subscribe-home-controls.php:14
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer-controls/common-controls/color-controls.php:10
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer-controls/common-controls/color-controls.php:53
+msgid "Theme Hover Color"
+msgstr ""
+
+#: inc/customizer-controls/common-controls/color-controls.php:96
+msgid "Theme Text Color"
+msgstr ""
+
+#: inc/customizer-controls/common-controls/color-controls.php:139
+msgid "Theme Link Color"
+msgstr ""
+
+#: inc/customizer-controls/common-controls/typography-controls.php:9
+msgid "Body Text Font"
+msgstr ""
+
+#: inc/customizer-controls/common-controls/typography-controls.php:32
+msgid "Heading Font"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:8
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:32
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:56
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:80
+msgid "Show Social Icons in Footer"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:89
+msgid "Icon Color"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:120
+msgid "Icon Background Color"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:151
+msgid "Active Facebook"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:167
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:188
+msgid "Active Twitter"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:204
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:225
+msgid "Active Pinterest"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:241
+msgid "Pinterest Link"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:257
+msgid "Active Instagram"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:273
+msgid "Instagram Link"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:289
+msgid "Active Linkedin"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:305
+msgid "Linkedin Link"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:321
+msgid "Active Youtube"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:337
+msgid "Youtube Link"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:353
+msgid "Active Tumblr"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:369
+msgid "Tumblr Link"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:385
+msgid "Active VK"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:401
+msgid "VK Link"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:417
+msgid "Active Reddit"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:433
+msgid "Reddit Link"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:449
+msgid "Active Flickr"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-copy-social-controls.php:465
+msgid "Flickr Link"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-widgets-controls.php:8
+msgid "Show Footer Widget Area"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-widgets-controls.php:21
+msgid "Choose Footer Widgets Column"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-widgets-controls.php:25
+msgid "1"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-widgets-controls.php:26
+msgid "2"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-widgets-controls.php:27
+msgid "3"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-widgets-controls.php:28
+msgid "4"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-widgets-controls.php:36
+msgid "Background"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-widgets-controls.php:37
+#: inc/customizer-controls/home-controls/hero-home-controls.php:23
+msgid "Select a plain color or image for your background"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-widgets-controls.php:70
+msgid "Widget Elements Color"
+msgstr ""
+
+#: inc/customizer-controls/footer-controls/footer-widgets-controls.php:71
+msgid "Text, link, border & background color"
+msgstr ""
+
+#: inc/customizer-controls/header-controls/header_general-controls.php:9
+msgid "Sticky Header On Desktop"
+msgstr ""
+
+#: inc/customizer-controls/header-controls/header_general-controls.php:18
+msgid "Sticky Header On Mobile"
+msgstr ""
+
+#: inc/customizer-controls/header-controls/header_general-controls.php:27
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/customizer-controls/header-controls/header_general-controls.php:36
+msgid "Transparent Header Only Home"
+msgstr ""
+
+#: inc/customizer-controls/header-controls/header_general-controls.php:52
+msgid "Show Search in Header"
+msgstr ""
+
+#: inc/customizer-controls/header-controls/header_general-controls.php:72
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer-controls/header-controls/header_general-controls.php:95
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/customizer-controls/header-controls/header_general-controls.php:129
+msgid "Background Color for Drop Down Menu"
+msgstr ""
+
+#: inc/customizer-controls/header-controls/header_general-controls.php:152
+msgid "Border Color for Drop Down Menu"
+msgstr ""
+
+#: inc/customizer-controls/header-controls/header_general-controls.php:175
+msgid "Font Color for Drop Down Menu"
+msgstr ""
+
+#: inc/customizer-controls/header-controls/header_general-controls.php:208
+msgid "Header Background Color for Mobile"
+msgstr ""
+
+#: inc/customizer-controls/header-controls/header_general-controls.php:231
+msgid "Mobile Menu Toggle Button Color"
+msgstr ""
+
+#: inc/customizer-controls/header-controls/header_general-controls.php:254
+msgid "Mobile Menu Border Color"
+msgstr ""
+
+#: inc/customizer-controls/header-controls/overlay-controls.php:9
+msgid "Active Overlay Over Header Banner"
+msgstr ""
+
+#: inc/customizer-controls/header-controls/overlay-controls.php:13
+#: inc/customizer.php:331 inc/customizer.php:344
+msgid "On"
+msgstr ""
+
+#: inc/customizer-controls/header-controls/overlay-controls.php:14
+#: inc/customizer.php:332 inc/customizer.php:345
+msgid "Off"
+msgstr ""
+
+#: inc/customizer-controls/header-controls/overlay-controls.php:22
+msgid "Choose Overlay Color"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/cat-home-controls.php:9
+msgid "Show 3 column Category Section"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/cat-home-controls.php:23
+#: inc/customizer-controls/home-controls/featured-home-controls.php:62
+#: inc/customizer-controls/home-controls/subscribe-home-controls.php:22
+msgid "Heading"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/cat-home-controls.php:25
+#: template-parts/home/cat-home.php:8
+msgid "Editors Pick"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/cat-home-controls.php:49
+#: template-parts/home/cat-home.php:9
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+msgstr ""
+
+#: inc/customizer-controls/home-controls/cat-home-controls.php:71
+msgid "Choose categories"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/cat-home-controls.php:72
+#: inc/customizer-controls/home-controls/regular-home-controls.php:45
+msgid "You can select multiple categories"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/featured-home-controls.php:9
+msgid "Show Featured Section"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/featured-home-controls.php:22
+#: inc/customizer-controls/home-controls/regular-home-controls.php:22
+msgid "Total Number of Posts"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/featured-home-controls.php:23
+msgid "Must include 3 or more"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/featured-home-controls.php:44
+msgid "Choose featured category"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/featured-home-controls.php:45
+msgid "Must have 3 or more posts in the category"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/featured-home-controls.php:64
+#: template-parts/home/featured-home.php:8
+msgid "Featured Post"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/featured-home-controls.php:87
+#: template-parts/home/featured-home.php:9
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur \n"
+"adipisicing elit. Iusto sit nostrum, quasi, impedit ipsa consequuntur "
+"quaerat sunt minima culpa eum!"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/hero-home-controls.php:9
+msgid "Show Hero Section"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/hero-home-controls.php:22
+msgid "Hero Background"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/hero-home-controls.php:67
+msgid "Hero Heading"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/hero-home-controls.php:69
+#: template-parts/home/hero-home.php:8
+msgid "Food is Life!"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/hero-home-controls.php:90
+msgid "Heading color"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/hero-home-controls.php:121
+msgid "Hero Sub Heading"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/hero-home-controls.php:123
+#: template-parts/home/hero-home.php:9
+msgid "Awesome Sub Heading"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/hero-home-controls.php:144
+msgid "Sub Heading color"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/hero-home-controls.php:175
+msgid "Hero Button Text"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/hero-home-controls.php:177
+msgid "About Us"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/hero-home-controls.php:198
+msgid "Hero Button Link"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/regular-home-controls.php:9
+msgid "Show Regular Section"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/regular-home-controls.php:23
+msgid "Too many posts can make the page longer than usual, so choose wisely!"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/regular-home-controls.php:44
+msgid "Choose Categories"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/regular-home-controls.php:63
+msgid "Show Category Names"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/regular-home-controls.php:83
+msgid "Font For Category Names"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/regular-home-controls.php:134
+msgid "Show Read More Button"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/regular-home-controls.php:154
+msgid "Read more button text"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/regular-home-controls.php:182
+msgid "Show Navigation"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/subscribe-home-controls.php:9
+msgid "Show Subscribe Section"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/subscribe-home-controls.php:24
+#: template-parts/home/subscribe-home.php:7
+msgid "Subscribe"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/subscribe-home-controls.php:45
+msgid "Subscribe Page"
+msgstr ""
+
+#: inc/customizer-controls/home-controls/subscribe-home-controls.php:46
+msgid "Choose the page where you have put your subscribe shortcode"
+msgstr ""
+
+#: inc/customizer.php:11
+msgid "Background Styles"
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "KhaddoKothon Pro"
+msgstr ""
+
+#: inc/customizer.php:29
+msgid "Get Pro"
+msgstr ""
+
+#: inc/customizer.php:154
+msgid "Preloader"
+msgstr ""
+
+#: inc/customizer.php:155
+msgid "Theme Preloader Options"
+msgstr ""
+
+#: inc/customizer.php:165
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer.php:171
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:178
+msgid "Page Header Overlay"
+msgstr ""
+
+#: inc/customizer.php:188
+msgid "Home Page Sections"
+msgstr ""
+
+#: inc/customizer.php:201
+msgid "Hero Section"
+msgstr ""
+
+#: inc/customizer.php:208
+msgid "Featured Section"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "Subscribe Section"
+msgstr ""
+
+#: inc/customizer.php:222
+msgid "Regular Section 2 column"
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Category Section 3 column"
+msgstr ""
+
+#: inc/customizer.php:239
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Blog Single Post Page"
+msgstr ""
+
+#: inc/customizer.php:252
+msgid "Blog Index Settings"
+msgstr ""
+
+#: inc/customizer.php:259
+msgid "Search Page Settings"
+msgstr ""
+
+#: inc/customizer.php:269
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:275
+msgid "Footer Widgets Area"
+msgstr ""
+
+#: inc/customizer.php:282
+msgid "Footer Copyrights & Social"
+msgstr ""
+
+#: inc/customizer.php:297
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/customizer.php:304
+msgid "Theme Colors"
+msgstr ""
+
+#: inc/customizer.php:311
+msgid "404 Page Settings"
+msgstr ""
+
+#: inc/customizer.php:327
+msgid "Enable/Disable Theme Preloader"
+msgstr ""
+
+#: inc/customizer.php:340
+msgid "Enable/Disable Back to Top"
+msgstr ""
+
+#: inc/tgm.php:71
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/theme-functions.php:43
+msgid "All categories"
+msgstr ""
+
+#: inc/theme-functions.php:98
+msgid "Previous"
+msgstr ""
+
+#: inc/theme-functions.php:99
+msgid "Next"
+msgstr ""
+
+#: inc/theme-functions.php:119
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/theme-functions.php:122
+msgid "Previous Comments"
+msgstr ""
+
+#: inc/theme-functions.php:125
+msgid "Next Comments"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:386
+#: lib/class-tgm-plugin-activation.php:827
+#: lib/class-tgm-plugin-activation.php:2533
+#: lib/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:387
+#: lib/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:934
+#: lib/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3509
+#: lib/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3509
+#: lib/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: page.php:41 template-parts/post/blog-item.php:42
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/header/index-header.php:20
+#: template-parts/header/index-header.php:22
+msgid "Posts from: "
+msgstr ""
+
+#: template-parts/header/index-header.php:24
+#, php-format
+msgid "Posts from: %s"
+msgstr ""
+
+#: template-parts/header/index-header.php:26
+msgid "Archive"
+msgstr ""
+
+#: template-parts/home/hero-home.php:10
+msgid "About us"
+msgstr ""
+
+#: template-parts/home/regular-home.php:8
+msgid "Read it ..."
+msgstr ""
+
+#: template-parts/home/regular-home.php:128
+#: template-parts/home/regular-home.php:133
+msgid " Previous"
+msgstr ""
+
+#: template-parts/home/regular-home.php:130
+#: template-parts/home/regular-home.php:135
+msgid "Next "
+msgstr ""
+
+#: template-parts/post/content-none.php:12
+msgid "There is no content to display"
+msgstr ""
+
+#: template-parts/post/content-none.php:14
+msgid "But you can continue your search"
+msgstr ""
+
+#: template-parts/post/post-grid.php:51
+msgid "Read it.."
+msgstr ""
+
+#: template-parts/post/post-nav.php:21
+msgid "Previous Post"
+msgstr ""
+
+#: template-parts/post/post-nav.php:31
+msgid "Next Post"
+msgstr ""
